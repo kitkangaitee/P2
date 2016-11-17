@@ -5,3 +5,5 @@ https://discussions.udacity.com/
 http://matplotlib.org/index.html
 
 https://www.kaggle.com/
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
